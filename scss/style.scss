@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // flex-direction: column;
+}
+input{
+    border: navajowhite;
+    border-bottom: 1px solid #000;
+    display: block;
+    margin-top: 20px;
+}
+button{
+    margin-top: 10px;
+    border: none;
+    background-color: #254;
+    border-radius: 5px;
+}
